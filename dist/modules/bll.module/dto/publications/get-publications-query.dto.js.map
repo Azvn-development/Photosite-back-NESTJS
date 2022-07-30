@@ -1,0 +1,1 @@
+{"version":3,"file":"get-publications-query.dto.js","sourceRoot":"","sources":["../../../../../src/modules/bll.module/dto/publications/get-publications-query.dto.ts"],"names":[],"mappings":";;;AAGA,MAAa,oBAAoB;CAAqB;AAAtD,oDAAsD;AAEtD,MAAa,4BAA4B;IACrC,YACW,YAAgC;QAAhC,iBAAY,GAAZ,YAAY,CAAoB;IACxC,CAAC;CACP;AAJD,oEAIC"}

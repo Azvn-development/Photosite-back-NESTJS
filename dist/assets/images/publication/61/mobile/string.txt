@@ -1,0 +1,37 @@
+{
+  "batch": {
+    "id": 0,
+    "paymentBatchExtendedId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "paymentBatchUserId": 0,
+    "batchType": 0,
+    "batchStatus": 0,
+    "initialAmount": 2,
+    "balanceAmount": 0,
+    "batchNote": "test batch payment",
+    "payments": [
+      {
+        "id": 0,
+        "extendedPaymentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "userPaymentId": 0,
+        "originalExtendedPaymentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "originalUserPaymentId": 0,
+        "batchPositionId": 0,
+        "paymentPostingDate": "2022-05-05T10:43:45.613Z",
+        "paymentSource": "paypal",
+        "paymentTypeId": 4016,
+        "sourceUserId": 3,
+        "purposeUserId": 4,
+        "purposeUserOrderId": 0,
+        "purposeOrderId": 0,
+        "allocatedAmount":2,
+        "orderId": 23,
+        "userOrderId": 1,
+        "invoiceNumber": "345",
+        "customerNumber": "259",
+        "paymentNote": "test payment",
+        "userId": "USR03",
+        "batchId": 0
+      }
+    ]
+  }
+}
